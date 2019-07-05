@@ -14,4 +14,4 @@ This app will look up up all the products in the bamazon database, allow custome
 
 ### Photos:
 
-![Screenshot](/bamazon/pics/screenshot.png)
+![Screenshot](/pics/screenshot.png)
