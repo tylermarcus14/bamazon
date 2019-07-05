@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "inventory + product manager",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylermarcus14/bamazon.git"
+  },
+  "author": "tyler marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylermarcus14/bamazon/issues"
+  },
+  "homepage": "https://github.com/tylermarcus14/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "mysql": "^2.17.1"
+  }
+}
